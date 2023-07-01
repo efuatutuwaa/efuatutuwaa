@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @efuatutuwaa
-- 👀 I’m interested in Data Science, App Development
+- 👋 Hi, I’m @efuatutuwa
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on a lot of Data Science Projects
 - 📫 You can reach me via email : etutuwaa.88@gmail.com 
