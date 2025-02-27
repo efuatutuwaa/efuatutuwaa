@@ -1,9 +1,12 @@
-Hi there, I’m @efuatutuwa!
+👋 Hi, I'm Efua 🚀  Product & Analytics Engineer | Data Automation & Engineering
 
-🌱 Currently delving into the realms of Python and SQL, I'm fueling my passion for both data science , data engineering and back-end engineering.
+I specialize in data automation, analytics engineering, and backend development, transforming raw data into scalable insights and automated workflows. 
+With experience in financial analytics, ride-hailing, and operational automation, I’ve built end-to-end data pipelines, API integrations, and ETL workflows to drive business impact.
 
-📫 Feel free to reach out via email: etutuwaa.88@gmail.com
+🛠 Tech Stack:
+Python,  Google Apps Script, MySQL, AWS RDS
 
+📧 Email: etutuwaa.88@gmail.com
 
 <!---
 efuatutuwaa/efuatutuwaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
